@@ -15,5 +15,8 @@ public class Ejer3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+             Alumno al1=new Alumno();
+        al1.muestraAlumno();
+ 
     }
 }
